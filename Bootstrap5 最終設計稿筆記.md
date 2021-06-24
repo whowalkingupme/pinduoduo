@@ -1,6 +1,6 @@
 # Bootstrap5 最終設計稿筆記
 
-設計稿---->
+設計稿---
 設計稿網址:	https://hexschool.github.io/boootstrap5WebLayout/#artboard1
 
 ## 安裝 bootstrap 以修改特定樣式
