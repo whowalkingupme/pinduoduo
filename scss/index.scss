@@ -1,0 +1,99 @@
+@import '../bootstrap/scss/bootstrap.scss';
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.collapse.navbar-collapse li {
+  margin: 0px 20px;
+}
+
+form.d-flex.navbar-form-r {
+  margin-right: 50px;
+}
+
+form.d-flex.navbar-form-r button {
+  margin: 0px 5px;
+}
+
+.rounded-23 {
+  border-radius: 2.3rem !important;; 
+}
+
+.rounded.icon {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.bg-gainsboro {
+  background-color: gainsboro;
+}
+.modal-footer.login {
+  display: block;
+}
+.transform-l50-u150 {
+  transform: translate(-50%, -125%) !important;
+}
+.text-brown {
+  color: brown;
+}
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.nav .active {
+  font-weight: bold;
+  border-bottom: 2px solid #ffc107;
+}
+
+.news-img {
+  width: 220px;
+  height: 168px;
+}
+
+.btn-warning-hover {
+  color: #636057;
+}
+
+.btn-warning-hover:hover {
+  background-color: #ff785e;
+  color: #fff;
+  border-color: #ff785e;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
+.square-3 {
+  width: 30px !important;
+  height: 30px !important;
+  line-height: 30px !important;
+}
+
+.btn-outline-secondary {
+  color: #858377;
+  border-color: #858377;
+}
+
+.btn-outline-secondary-hover:hover {
+  background-color: #ffdf65;
+  border-color: #ffdf65;
+  color: #858377;
+}
+
+.btn-outline-secondary-hover:hover:hover > .custom-heart {
+  color: #ff785e;
+}
+
+.bg-gray-700{
+  background-color:  #494846 !important;
+}
+
+.letter-spacing-20 {
+  letter-spacing: 2px !important;
+}
+
+.fs-mobile-3 {
+  font-size: 18px !important;
+}
